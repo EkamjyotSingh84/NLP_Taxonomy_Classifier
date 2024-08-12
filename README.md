@@ -1,7 +1,7 @@
 # NLP_Taxonomy_Classifier
 Repository for the NLP Taxonomy Classifier project using a fine-tuned BERT model.
 
-📄 Paper: Exploring the Landscape of Natural Language Processing Research (RANLP 2023)
+📄 Paper: https://aclanthology.org/2023.ranlp-1.111/
 
 🤗 Model: https://huggingface.co/TimSchopf/nlp_taxonomy_classifier
 
